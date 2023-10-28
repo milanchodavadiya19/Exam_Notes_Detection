@@ -42,6 +42,6 @@ python delete_images.py
 * [LeNet](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf/) - Research Paper
 
 ## Examples
-<img src="https://github.com/chanduparmar/notes_detection/blob/master/test1.JPG">
-<img src="https://github.com/chanduparmar/notes_detection/blob/master/test2.JPG">
+<img src="https://github.com/milanchodavadiya19/Exam_Notes_Detection/blob/main/test1.JPG">
+<img src="https://github.com/milanchodavadiya19/Exam_Notes_Detection/blob/main/test2.JPG">
 
